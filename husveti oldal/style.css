@@ -1,0 +1,26 @@
+body{
+background-image: url("letöltés.jpg");
+background-size: cover;
+background-position: center;
+}
+
+
+
+
+div{
+    margin-bottom: 30px;
+}
+
+.kozep{
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(190, 188, 188);
+}
+
+#legelso{
+    margin-left: 500px;
+    display: block;
+    width: 50%;
+}
